@@ -1,16 +1,33 @@
-## Hi there 👋
+Assalamualaikum, I'm Abdul Raouf 👋  
 
-<!--
-**AbdulRaoufPahore/AbdulRaoufPahore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Flutter Developer** | Cross-Platform Mobile & Web Apps | Firebase & REST API  
 
-Here are some ideas to get you started:
+  Skills
+- Flutter & Dart
+- Firebase (Auth, Firestore, Storage)
+- REST API Integration
+- UI/UX Design & Responsive Layouts
+- State Management (Provider, Riverpod)
+- Git & Version Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Featured Projects
+[Portfolio Website](https://abdulraoufpahore.github.io/my-portfolio)
+A responsive personal portfolio built with Flutter Web showcasing my projects, skills, and contact details.  
+**Tech:** Flutter, Dart  
+
+[English Dictionary App](https://github.com/AbdulRaoufPahore/Wordly)
+Flutter app to search words, view meanings, and manage favorites with a clean, responsive UI.  
+**Tech:** Flutter, Dart, API Integration  
+
+[WhatsApp UI Clone]( https://github.com/AbdulRaoufPahore/whatsapp_ui_clone )
+Recreated WhatsApp’s interface using Flutter with custom tabs, chat screens, and responsive layout.  
+**Tech:** Flutter, Dart  
+
+
+ Contact Me
+- **Email:** [abdulraoufpahore@gmail.com](abdulraoufpahore@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/abdul-raouf-88878a259](https://www.linkedin.com/in/abdul-raouf-88878a259)  
+- **GitHub:** [github.com/AbdulRaoufPahore](https://github.com/AbdulRaoufPahore)  
+- **Portfolio:** [abdulraoufpahore.github.io/my-portfolio](https://abdulraoufpahore.github.io/my-portfolio)  
+
