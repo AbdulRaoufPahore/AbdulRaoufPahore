@@ -7,7 +7,7 @@ Assalamualaikum, I'm Abdul Raouf 👋
 - Firebase (Auth, Firestore, Storage)
 - REST API Integration
 - UI/UX Design & Responsive Layouts
-- State Management (Provider, Riverpod)
+- State Management (Bloc,Getx,Provider, Riverpod)
 - Git & Version Control
 
 
