@@ -30,3 +30,4 @@ Flutter Developer with hands-on experience building cross-platform mobile applic
 
 - **Email:** abdulraoufpahore@gmail.com
 - **Location:** Karachi, Pakistan
+- **Linkedin:** https://www.linkedin.com/in/abdul-raouf-pahore-88878a259/edit/intro/
