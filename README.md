@@ -1,33 +1,32 @@
-Assalamualaikum, I'm Abdul Raouf 👋  
+# Hi there, I'm Abdul Raouf 👋
 
- Flutter Developer** | Cross-Platform Mobile & Web Apps | Firebase & REST API  
+### 📱 Mobile Software Developer | Flutter & Dart Specialist
 
-  Skills
-- Flutter & Dart
-- Firebase (Auth, Firestore, Storage)
-- REST API Integration
-- UI/UX Design & Responsive Layouts
-- State Management (Bloc,Getx,Provider, Riverpod)
-- Git & Version Control
+Flutter Developer with hands-on experience building cross-platform mobile applications. Passionate about Clean Architecture, State Management (BLoC, GetX, Provider), and building scalable offline-first applications.
 
+---
 
-Featured Projects
-[Portfolio Website](https://abdulraoufpahore.github.io/my-portfolio)
-A responsive personal portfolio built with Flutter Web showcasing my projects, skills, and contact details.  
-**Tech:** Flutter, Dart  
+### 🛠️ Tech & Tools
 
-[English Dictionary App](https://github.com/AbdulRaoufPahore/Wordly)
-Flutter app to search words, view meanings, and manage favorites with a clean, responsive UI.  
-**Tech:** Flutter, Dart, API Integration  
+- **Languages:** Dart, C++
+- **Framework:** Flutter
+- **State Management:** BLoC, GetX, Provider
+- **Architecture:** Clean Architecture, MVVM
+- **Backend & Cloud:** Firebase (Auth, Firestore), REST APIs
+- **Database & Storage:** Offline Databases, Local Persistence
+- **Tools:** Git, GitHub, Android Studio, VS Code
 
-[WhatsApp UI Clone]( https://github.com/AbdulRaoufPahore/whatsapp_ui_clone )
-Recreated WhatsApp’s interface using Flutter with custom tabs, chat screens, and responsive layout.  
-**Tech:** Flutter, Dart  
+---
 
+### 💼 Experience & Key Highlights
 
- Contact Me
-- **Email:** [abdulraoufpahore@gmail.com](abdulraoufpahore@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/abdul-raouf-88878a259](https://www.linkedin.com/in/abdul-raouf-88878a259)  
-- **GitHub:** [github.com/AbdulRaoufPahore](https://github.com/AbdulRaoufPahore)  
-- **Portfolio:** [abdulraoufpahore.github.io/my-portfolio](https://abdulraoufpahore.github.io/my-portfolio)  
+- Worked at **SoftDigital Systems** building production-ready Flutter applications.
+- Developed **Mazdoor App** (Labour & Client Marketplace) with dual-role authentication, wallet flows, and bilingual UI (English/Urdu).
+- Built **E-Commerce** & **Educational Apps** (WhatsApp Clone,UniGate) focusing on clean UI and smooth offline workflows.
 
+---
+
+### 📫 Connect with Me
+
+- **Email:** abdulraoufpahore@gmail.com
+- **Location:** Karachi, Pakistan
